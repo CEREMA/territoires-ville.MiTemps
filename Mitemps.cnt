@@ -1,0 +1,164 @@
+:Base Mitemps.hlp>Main
+1 Introduction
+2 Introduction=Introduction2@Mitemps.hlp>Main
+1 Installation
+2 Installation du logiciel
+3 Installation du logiciel=Installationdulogiciel@Mitemps.hlp>Main
+3 Consignes Générales
+4 Consignes Générales=ConsignesG.n.rales@Mitemps.hlp>Main
+4 Windows95=Windows95@Mitemps.hlp>Proc
+4 Windows NT ou 2000=WindowsNTou2000@Mitemps.hlp>Proc
+3 Version Monoposte
+4 Version Monoposte=VersionMonoposte@Mitemps.hlp>Main
+3 Version Réseau
+4 Version Réseau=VersionR.seau@Mitemps.hlp>Main
+4 Partie Serveur=PartieServeur@Mitemps.hlp>Proc
+4 Partie Client=PartieClient@Mitemps.hlp>Proc
+3 Gestion du jeton (Versions monoposte ou Serveur).
+4 Gestion du jeton (Versions monoposte ou Serveur).=Gestiondujeton.VersionsmonoposteouServeur..@Mitemps.hlp>Main
+3 Le programme de transfert
+4 Le programme de transfert=Leprogrammedetransfert@Mitemps.hlp>Main
+4 Régénération de la licence sur la disquette de protection=R.g.n.rationdelalicencesurladisquettedeprotection@Mitemps.hlp>Proc
+4 Information sur la licence stockée sur la disquette de protection=Informationsurlalicencestock.esurladisquettedeprotection@Mitemps.hlp>Proc
+4 Information sur la licence stockée sur le répertoire de l'application=Informationsurlalicencestock.esurler.pertoiredel.application@Mitemps.hlp>Proc
+4 Transfert de la licence sur la disquette de protection=Transfertdelalicencesurladisquettedeprotection@Mitemps.hlp>Proc
+4 Transfert de la licence sur le répertoire de l'application=Transfertdelalicencesurler.pertoiredel.application@Mitemps.hlp>Proc
+3 Désinstallation
+4 Désinstallation=D.sinstallation@Mitemps.hlp>Main
+2 Problème connu
+3 Problème connu=Probl.meconnu@Mitemps.hlp>Main
+3 Outlook=Outlook@Mitemps.hlp>Main
+3 Lecteur CD et canal DMA
+4 Lecteur CD et canal DMA=LecteurCDetcanalDMA@Mitemps.hlp>Main
+4 Solution=Solution2@Mitemps.hlp>Proc
+3 Windows 2000
+4 Windows 2000=Windows2000@Mitemps.hlp>Main
+4 Problèmes :=Probl.mes.@Mitemps.hlp>Proc
+4 Solutions :=Solutions.@Mitemps.hlp>Proc
+2 Fichiers gérés par MiTemps
+3 Fichiers gérés par MiTemps=Fichiersg.r.sparMiTemps@Mitemps.hlp>Main
+1 Le recueil des temps de parcours
+2 Avant propos
+3 Avant propos=Avantpropos@Mitemps.hlp>Main
+3 La démarche MiTemps=Lad.marcheMiTemps@Mitemps.hlp>Main
+3 Intérêts et limites de MiTemps
+4 Intérêts et limites de MiTemps=Int.r.tsetlimitesdeMiTemps@Mitemps.hlp>Main
+4 Évaluation=.valuation@Mitemps.hlp>Proc
+4 Mesure des vitesses de coordination=Mesuredesvitessesdecoordination@Mitemps.hlp>Proc
+4 Limites=Limites@Mitemps.hlp>Proc
+2 Les matériels embarqués
+3 Les matériels embarqués=Lesmat.rielsembarqu.s@Mitemps.hlp>Main
+3 Le capteur=Lecapteur@Mitemps.hlp>Main
+3 Le terminal
+4 Le terminal=Leterminal@Mitemps.hlp>Main
+4 Fonctions accessibles par mot de passe=Fonctionsaccessiblesparmotdepasse@Mitemps.hlp>Proc
+4 Fonction d'étalonnage=Fonctiond..talonnage@Mitemps.hlp>Proc
+4 Fonctions relatives aux mesures=Fonctionsrelativesauxmesures@Mitemps.hlp>Proc
+3 Capacité de stockage
+4 Capacité de stockage=Capacit.destockage@Mitemps.hlp>Main
+2 Méthodologies d'enquete
+3 Méthodologies d'enquete=M.thodologiesd.enquete@Mitemps.hlp>Main
+3 Deux types d'enquete
+4 Deux types d'enquete=Deuxtypesd.enquete@Mitemps.hlp>Main
+4 Le véhicule flottant=Lev.hiculeflottant@Mitemps.hlp>Proc
+4 Suivi d'un véhicule=Suivid.unv.hicule@Mitemps.hlp>Proc
+3 Organisation d'une enquete
+4 Organisation d'une enquete=Organisationd.uneenquete@Mitemps.hlp>Main
+4 Terminologie=Terminologie@Mitemps.hlp>Proc
+4 Elaboration des itinéraires=Elaborationdesitin.raires@Mitemps.hlp>Proc
+4 Planification, programme d'enquete=Planification.programmed.enquete@Mitemps.hlp>Proc
+4 Un exemple d'enquete=Unexempled.enquete@Mitemps.hlp>Proc
+4 Un parcours type=Unparcourstype@Mitemps.hlp>Proc
+4 Les données=Lesdonn.es@Mitemps.hlp>Proc
+1 Manuel utilisateur
+2 Lancement de MiTemps=LancementdeMiTemps@Mitemps.hlp>Main
+2 L'interface de MiTemps=L.interfacedeMiTemps@Mitemps.hlp>Main
+2 Les menus de MiTemps=LesmenusdeMiTemps@Mitemps.hlp>Main
+2 Le menu "Itinéraire"
+3 Le menu "Itinéraire"=Lemenu.Itin.raire.@Mitemps.hlp>Main
+3 Nouveau=Nouveau@Mitemps.hlp>Main
+3 Nouveau à partir d'une campagne de mesures=Nouveau.partird.unecampagnedemesures@Mitemps.hlp>Main
+3 Ouvrir un itinéraire=Ouvrirunitin.raire@Mitemps.hlp>Main
+3 Fermer un itinéraire=Fermerunitin.raire@Mitemps.hlp>Main
+3 Rabouter deux parcours de deux itinéraires différents=Rabouterdeuxparcoursdedeuxitin.rairesdiff.rents@Mitemps.hlp>Main
+3 Enregistrer un itinéraire=Enregistrerunitin.raire@Mitemps.hlp>Main
+3 Enregistrer un itinéraire sous=Enregistrerunitin.rairesous@Mitemps.hlp>Main
+3 Importer une campagne de mesures=Importerunecampagnedemesures@Mitemps.hlp>Main
+3 Vider le boîtier de mesures=Viderlebo.tierdemesures@Mitemps.hlp>Main
+3 Imprimer un itinéraire=Imprimerunitin.raire@Mitemps.hlp>Main
+3 Quitter MiTemps=QuitterMiTemps@Mitemps.hlp>Main
+2 Les onglets
+3 Les onglets=Lesonglets@Mitemps.hlp>Main
+3 L'onglet Itinéraire de référence=L.ongletItin.raireder.f.rence@Mitemps.hlp>Main
+3 L'onglet Courbe Distance/Temps=L.ongletCourbeDistance.Temps@Mitemps.hlp>Main
+3 L'onglet Courbe Distance/Vitesse=L.ongletCourbeDistance.Vitesse@Mitemps.hlp>Main
+3 L'onglet Synoptique des Vitesses=L.ongletSynoptiquedesVitesses@Mitemps.hlp>Main
+3 L'onglet Histogramme des Vitesses=L.ongletHistogrammedesVitesses@Mitemps.hlp>Main
+3 L'onglet Tableau Brut=L.ongletTableauBrut@Mitemps.hlp>Main
+3 L'onglet Synthèse/Statistiques=L.ongletSynth.se.Statistiques@Mitemps.hlp>Main
+2 Le menu "Affichage"
+3 Le menu "Affichage"=Lemenu.Affichage.@Mitemps.hlp>Main
+3 Barre d'outils=Barred.outils@Mitemps.hlp>Main
+3 Barre d'état=Barred..tat@Mitemps.hlp>Main
+3 Options=Options@Mitemps.hlp>Main
+2 Le menu "Fenêtre"
+3 Le menu "Fenêtre"=Lemenu.Fen.tre.@Mitemps.hlp>Main
+3 Nouvelle fenêtre=Nouvellefen.tre@Mitemps.hlp>Main
+3 Cascade=Cascade@Mitemps.hlp>Main
+3 Réorganiser les icônes=R.organiserlesic.nes@Mitemps.hlp>Main
+3 Liste=Liste@Mitemps.hlp>Main
+2 Le menu "?"
+3 Le menu "?"=Lemenu...@Mitemps.hlp>Main
+3 Sommaire=Sommaire@Mitemps.hlp>Main
+3 Aide sur=Aidesur@Mitemps.hlp>Main
+3 A propos de MiTemps=AproposdeMiTemps@Mitemps.hlp>Main
+1 Exemples d'utilisation
+2 Préliminaires=Pr.liminaires@Mitemps.hlp>Main
+2 Vidage du boitier d'enregistrement=Vidageduboitierd.enregistrement@Mitemps.hlp>Main
+2 Création d'un nouvel itinéraire de référence à partir de rien=Cr.ationd.unnouvelitin.raireder.f.rence.partirderien@Mitemps.hlp>Main
+2 Création d'un itinéraire de référence à partir d'une campagne de mesures=Cr.ationd.unitin.raireder.f.rence.partird.unecampagnedemesures@Mitemps.hlp>Main
+2 Importation de parcours issus de campagne de mesures dans un itinéraire de référence=Importationdeparcoursissusdecampagnedemesuresdansunitin.raireder.f.rence@Mitemps.hlp>Main
+2 Visualisation des résultats d'un itinéraire de référence=Visualisationdesr.sultatsd.unitin.raireder.f.rence@Mitemps.hlp>Main
+1 Annexes
+2 Précision des estimations et nombre de mesures
+3 Précision des estimations et nombre de mesures=Pr.cisiondesestimationsetnombredemesures@Mitemps.hlp>Main
+3 Précision des estimations=Pr.cisiondesestimations@Mitemps.hlp>Main
+3 Rappels statistiques=Rappelsstatistiques@Mitemps.hlp>Main
+3 Estimation du nombre de mesures à réaliser=Estimationdunombredemesures.r.aliser@Mitemps.hlp>Main
+2 Cahier des charges d'un système de mesures informatisées des temps de parcours
+3 Cahier des charges d'un système de mesures informatisées des temps de parcours=Cahierdeschargesd.unsyst.medemesuresinformatis.esdestempsdeparcours@Mitemps.hlp>Main
+3 Le système de mesure
+4 Le système de mesure=Lesyst.medemesure@Mitemps.hlp>Main
+4 En milieu urbain=Enmilieuurbain@Mitemps.hlp>Proc
+4 En rase campagne=Enrasecampagne@Mitemps.hlp>Proc
+3 Les fonctions du système
+4 Les fonctions du système=Lesfonctionsdusyst.me@Mitemps.hlp>Main
+4 Mode étalonnage=Mode.talonnage@Mitemps.hlp>Proc
+4 Description de la mesure=Descriptiondelamesure@Mitemps.hlp>Proc
+4 Test de bonne réception des impulsions=Testdebonner.ceptiondesimpulsions@Mitemps.hlp>Proc
+4 Mesures=Mesures@Mitemps.hlp>Proc
+4 Transmission=Transmission@Mitemps.hlp>Proc
+3 Structure des fichiers à transmettre au micro-ordinateur
+4 Structure des fichiers à transmettre au micro-ordinateur=Structuredesfichiers.transmettreaumicro.ordinateur@Mitemps.hlp>Main
+4 Fichier distance parcourue par intervalle de temps=Fichierdistanceparcourueparintervalledetemps@Mitemps.hlp>Proc
+4 Fichier distance parcourue par intervalle de Temps (nouveau)=FichierdistanceparcourueparintervalledeTemps.nouveau.@Mitemps.hlp>Proc
+3 Spécifications du dialogue entre un micro-ordinateur et le terminal MiTemps
+4 Spécifications du dialogue entre un micro-ordinateur et le terminal MiTemps=Sp.cificationsdudialogueentreunmicro.ordinateuretleterminalMiTemps@Mitemps.hlp>Main
+4 Connexion=Connexion@Mitemps.hlp>Proc
+4 Dialogue=Dialogue@Mitemps.hlp>Proc
+4 Commande=Commande@Mitemps.hlp>Proc
+4 Bloc de transmission=Blocdetransmission@Mitemps.hlp>Proc
+3 Caractéristiques mécaniques du système de mesures
+4 Caractéristiques mécaniques du système de mesures=Caract.ristiquesm.caniquesdusyst.medemesures@Mitemps.hlp>Main
+4 Le sous-ensemble capteur=Lesous.ensemblecapteur@Mitemps.hlp>Proc
+4 Le sous-ensemble terminal=Lesous.ensembleterminal@Mitemps.hlp>Proc
+3 Caractéristiques électriques
+4 Caractéristiques électriques=Caract.ristiques.lectriques@Mitemps.hlp>Main
+4 Énergie électrique=.nergie.lectrique@Mitemps.hlp>Proc
+4 Gamme des températures=Gammedestemp.ratures@Mitemps.hlp>Proc
+4 Principes de fonctionnement=Principesdefonctionnement@Mitemps.hlp>Proc
+3 Utilisation
+4 Utilisation=Utilisation@Mitemps.hlp>Main
+4 Par le maître d'oeuvre=Parlema.tred.oeuvre@Mitemps.hlp>Proc
+4 Description=Description@Mitemps.hlp>Proc
+4 Par l'enquêteur=Parl.enqu.teur@Mitemps.hlp>Proc

@@ -1,0 +1,44 @@
+[Version]
+Version=3.0.0.6
+
+[MiTemps.exe <000C>]
+Dest=$(AppPath)
+Date=14/06/2005
+Time=07:22
+Version=3.0.0.6
+CABFilename=MiTemps.CAB
+CABINFFile=MiTemps.INF
+Uses1=msvbvm60.dll
+Uses2=oleaut32.dll
+Uses3=olepro32.dll
+Uses4=asycfilt.dll
+Uses5=stdole2.tlb
+Uses6=COMCAT.DLL
+Uses7=Vb6fr.dll
+Uses8=IsLicense.dll
+Uses9=Comdlg32.ocx
+Uses10=comctl32.ocx
+Uses11=tabctl32.ocx
+Uses12=Ss32x25.ocx
+Uses13=Mschrt20.ocx
+Uses14=MSCOMM32.OCX
+Uses15=MSCAL.OCX
+Uses16=comct232.ocx
+
+[IsLicense.dll <000C>]
+Dest=$(WinSysPath)
+Date=30/04/2005
+Time=14:47
+Version=6.5.3.1
+
+[Ss32x25.ocx <000C>]
+Dest=$(WinSysPath)
+Date=19/08/1996
+Time=16:27
+Version=2.5.0.10
+
+[MSCAL.OCX <000C>]
+Dest=$(WinSysPath)
+Date=11/07/1998
+Time=00:00
+Version=8.0.0.3527
